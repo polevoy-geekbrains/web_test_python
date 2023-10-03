@@ -2,8 +2,10 @@ url: https://test-stand.gb.ru/gateway/login
 address: https://test-stand.gb.ru/api/posts
 address_post: https://test-stand.gb.ru/gateway/posts
 
-login: serg_t
-pswd: cb7131accd
+login: KiraZ2
+pswd: gi89mjb90f
+
+# token: '10adae08fb0cee4183bdb1640e758c53'
 
 title: New_title
 description: New_description_for_test_HW
